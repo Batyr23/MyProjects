@@ -1,0 +1,10 @@
+**ARIMA_Time_Series_Forecasting.ipynb**
+
+https://colab.research.google.com/drive/1FRBRuJJ8xoiWTxyJ_RFVtNIF401Fqamo?usp=sharing
+
+**Otbasy Bank Case -- Top**
+https://colab.research.google.com/drive/1qEjmcaf-a2ybkZqAOnJ_chikUCHmwkyG?usp=sharing
+
+
+**Endterm Project of Predicting Car Insurance Response**
+https://colab.research.google.com/drive/1D56hk-jU7mQ9dma5-wdqWpJvO_BzjRk7?usp=sharing
